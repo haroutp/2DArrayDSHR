@@ -1,0 +1,12 @@
+/Users/haroutparseghian/Desktop/HR/2DArray/bin/Debug/netcoreapp3.1/2DArray.deps.json
+/Users/haroutparseghian/Desktop/HR/2DArray/bin/Debug/netcoreapp3.1/2DArray.runtimeconfig.json
+/Users/haroutparseghian/Desktop/HR/2DArray/bin/Debug/netcoreapp3.1/2DArray.runtimeconfig.dev.json
+/Users/haroutparseghian/Desktop/HR/2DArray/bin/Debug/netcoreapp3.1/2DArray.dll
+/Users/haroutparseghian/Desktop/HR/2DArray/bin/Debug/netcoreapp3.1/2DArray.pdb
+/Users/haroutparseghian/Desktop/HR/2DArray/obj/Debug/netcoreapp3.1/2DArray.csprojAssemblyReference.cache
+/Users/haroutparseghian/Desktop/HR/2DArray/obj/Debug/netcoreapp3.1/2DArray.csproj.CoreCompileInputs.cache
+/Users/haroutparseghian/Desktop/HR/2DArray/obj/Debug/netcoreapp3.1/2DArray.AssemblyInfoInputs.cache
+/Users/haroutparseghian/Desktop/HR/2DArray/obj/Debug/netcoreapp3.1/2DArray.AssemblyInfo.cs
+/Users/haroutparseghian/Desktop/HR/2DArray/obj/Debug/netcoreapp3.1/2DArray.dll
+/Users/haroutparseghian/Desktop/HR/2DArray/obj/Debug/netcoreapp3.1/2DArray.pdb
+/Users/haroutparseghian/Desktop/HR/2DArray/obj/Debug/netcoreapp3.1/2DArray.genruntimeconfig.cache
